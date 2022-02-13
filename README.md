@@ -42,6 +42,6 @@
 </details>
 
 [project]: https://github.com/elizavetadv/Dental_clinic
-[LinkedIn]: https://www.linkedin.com/in/%D0%B5%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0-%D0%B4-21665520b/
+[LinkedIn]: https://www.linkedin.com/in/elizaveta-d-21665520b/
 [Telegram]: https://t.me/lizavetaDavidovich
 [Gmail]: https://mailto:lizavetka.davidovich@gmail.com
