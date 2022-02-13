@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Liza
 
----
-
 ### I'm Junior Java Developer 👩‍💻
 
 ### 😄 About me:
@@ -25,6 +23,7 @@
 
 <br />
 
+###
 ###
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/fluency/452/linkedin.png" />][LinkedIn]
