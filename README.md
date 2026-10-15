@@ -4,11 +4,9 @@
 
 ### 😄 About me:
 
-- 4nd year student of BNTU 🎓💚 specialty: software engineer 💻
-- book lover 📚
-- dancer in the dance group of my faculty 🥰
+- graduated from BNTU 🎓💚
+- currently working on my specialty as a software engineer 💻
 - during the 6-month course, I learned Java and developed a project [Dental clinic][project]
-- I strive to conquer new peaks 🗻 & grow as a programmer 📈
 
 ### Programming languages and tools 🧰:
 
